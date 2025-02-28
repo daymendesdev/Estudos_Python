@@ -60,7 +60,7 @@ print(familia)
 
 #O .sort seguido do .reverse retorna o inverso em ordem
 
-#para creferenciar uma lista para outra variável
+#para referenciar uma lista para outra variável
 familia2 = familia
 print(familia)
 
